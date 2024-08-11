@@ -1,0 +1,8 @@
+/Stratific
+|-- main.py
+|-- config.py
+|-- utils.py
+|-- renaming.py
+|-- stratify.py
+|-- visualize.py
+|-- requirements.txt
