@@ -1,6 +1,6 @@
 Проект: BBtoOBB_Converter Описание: переводит координаты из формата Bounding Box в Oriented Bounding Box путем сегментации изображения. Боксы поворачиваются по направлению обьекта
 Установка Требования Python 3.12.4 или выше Установленные зависимости в requirements.txt
-
+в случае проблем с установкой воспользуйтесь репозиторием https://github.com/Dezmoond/BBtoOBB_CONVERTER
 Anaconda:
 
 https://github.com/Dezmoond/BBtoOBB_CONVERTER.git
